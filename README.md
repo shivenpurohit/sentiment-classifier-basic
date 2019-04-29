@@ -1,6 +1,7 @@
 # sentiment-classifier-basic
 A very basic model sentiment classifier for reference
 
+
 #############################################################################################################################
 # Summary of sentiment-classifier 																							#
 # 1. We have list of positive words and negative words in positive_words.txt and negative word.txt respectivel 				#
