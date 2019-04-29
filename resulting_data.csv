@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Number of Retweets, Number of Replies, Positive Score, Negative Score, Net Score, Sentiment
 3,3,0,0,0,Neutral
 1,1,2,2,0,Neutral
@@ -18,3 +19,25 @@ Number of Retweets, Number of Replies, Positive Score, Negative Score, Net Score
 4,4,3,0,3,Positive
 19,19,2,1,1,Positive
 0,0,1,0,1,Positive
+=======
+Number of Retweets, Number of Replies, Positive Score, Negative Score, Net Score, Sentiment
+3,3,0,0,0,Neutral
+1,1,2,2,0,Neutral
+1,1,0,0,0,Neutral
+3,3,1,0,1,Positive
+6,6,2,0,2,Positive
+9,9,2,0,2,Positive
+19,19,2,0,2,Positive
+0,0,0,3,-3,Negative
+0,0,0,2,-2,Negative
+82,82,2,0,2,Positive
+0,0,0,1,-1,Negative
+0,0,1,0,1,Positive
+47,47,2,0,2,Positive
+2,2,1,0,1,Positive
+0,0,1,0,1,Positive
+0,0,2,1,1,Positive
+4,4,3,0,3,Positive
+19,19,2,1,1,Positive
+0,0,1,0,1,Positive
+>>>>>>> 2043a60c25c4beaee351c1586cfbca5cd65fc2a1
