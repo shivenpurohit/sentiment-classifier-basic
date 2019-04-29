@@ -1,6 +1,5 @@
 # sentiment-classifier-basic
 A very basic model sentiment classifier for reference
-<<<<<<< HEAD
 
 #############################################################################################################################
 # Summary of sentiment-classifier 																							#
@@ -11,5 +10,3 @@ A very basic model sentiment classifier for reference
 # 5. We calculate the overall sentiment of the tweet by determining whether the words in a tweet are positive or negative.  #
 # 6. we plot a scatter plot graph of net sentiment score vs no. of retweets using matplotlib.								#
 #############################################################################################################################
-=======
->>>>>>> 2043a60c25c4beaee351c1586cfbca5cd65fc2a1
